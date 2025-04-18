@@ -94,7 +94,7 @@ Follow these steps to get the project up and running:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git clone https://github.com/NoorAlaaSaad/Gender-Classification-Task.git
 cd Gender-Classification-Task
 ```
 
